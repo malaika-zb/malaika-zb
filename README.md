@@ -9,6 +9,22 @@ As a **Google Developer Groups on Campus Host**, I have had the opportunity to l
 - 🧠 **Machine Learning & AI** – Teaching machines to think smarter  
 - 💬 **Natural Language Processing (NLP)** – Bridging the gap between humans and technology  
 - 🖼 **Image Processing & Computer Vision** – Seeing the world through AI
+
+## 💼 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-NLP-FF6F00?style=flat&logo=spaCy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Image%20Processing-FF4088?style=flat&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-Audio%20Processing-1DB954?style=flat&logo=audacity&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
   
 ## 📊 GitHub Stats  
 <p align="center">
