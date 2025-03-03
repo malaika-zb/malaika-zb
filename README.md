@@ -29,7 +29,6 @@ As a **Google Developer Groups on Campus Host**, I have had the opportunity to l
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malaika-zb&show_icons=true&theme=dark" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaika-zb&theme=dark" alt="GitHub Streak" height="150px"/>
 </p>
 
 ## 🌱 Always Learning & Growing  
